@@ -1855,7 +1855,12 @@
     <title>稻上天尊的轻功演示</title>
     <url>/posts/23376.html</url>
     <content><![CDATA[<p>古有佛祖割肉饲鹰，今有天尊撒灰喂鱼。<span id="more"></span></p>
-<iframe src="https://xiaozhu.netlify.app/video/QQ%E8%A7%86%E9%A2%91_403d610fe9f47d7789791b7c6fcaa5271660471580.mp4" width=320 height=180 scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="https://xiaozhu.netlify.app/video/QQ%E8%A7%86%E9%A2%91_403d610fe9f47d7789791b7c6fcaa5271660471580.mp4" scrolling="no" border="0" 
+frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
+height: 100%; left: 0; top: 0;"> </iframe>
+</div>
+]]></content>
       <tags>
         <tag>历史</tag>
         <tag>合订本</tag>
